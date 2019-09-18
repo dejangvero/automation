@@ -23,6 +23,9 @@ def oneTimeSetUp(request, browser):
         baseURL = "http://automationpractice.com/index.php"
         driver = webdriver.Chrome(executable_path="C:\Python27\chromedriver.exe")
         driver.get(baseURL)
+        driver.maximize_window()
+        driver.implicitly_wait(5)
+        driver.get(baseURL)
         print("Running tests on chrome")
 
     if request.cls is not None:
