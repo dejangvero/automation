@@ -80,7 +80,7 @@ class CategoriesPage(BasePage):
         self.enterSearchProducts(data)
         self.clickOnSearchButton()
         results = self.getSearchTitles()
-        my_file = open("C:\Users\Dejan\PycharmProjects\SymphonyTest\\tests\home\\resulttitles.txt", "w")
+        my_file = open("C:\Users\Deki\PycharmProjects\Automation\\tests\home\\resulttitles.txt", "w")
 
         for i in results:
             my_file.write(str(i.text) + "\n")
