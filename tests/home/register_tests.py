@@ -13,7 +13,7 @@ class RegisterTest(unittest2.TestCase):
         self.rp = RegisterPage(self.driver)
 
     @pytest.mark.run(order=1)
-    @data(*getCSVData("C:\Users\Deki\PycharmProjects\SymphonyTest\\tests\home\\testdata.csv"))
+    @data(*getCSVData("C:\Users\Deki\PycharmProjects\Automation\\tests\home\\testdata.csv"))
     @unpack
     def test_validRegister(self, email, firstname, lastname, password, days, month, year, company, address, city, state, zipcode, country, phonenumber, alias):
         self.rp.registerUser(email, firstname, lastname, password, days, month, year, company, address, city, state, zipcode, country, phonenumber, alias)
