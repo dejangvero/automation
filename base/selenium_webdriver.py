@@ -160,6 +160,8 @@ class SeleniumDriver():
                 self.log.info("Getting text on element :: " +  info)
                 self.log.info("The text is :: '" + text + "'")
                 text = text.strip()
+
+                #Provera stripa na visem nivou
         except:
             self.log.error("Failed to get text on element " + info)
             print_stack()
@@ -250,6 +252,7 @@ class SeleniumDriver():
         if direction == "up":
             # Scroll Up
             self.driver.execute_script("window.scrollBy(0, -1000);")
+
 
         if direction == "down":
             # Scroll Down

@@ -17,3 +17,5 @@ def customLogger(logLevel=logging.DEBUG):
     logger.addHandler(fileHandler)
 
     return logger
+
+#Console Hendler za logovanje
