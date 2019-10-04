@@ -1,3 +1,4 @@
+python -m pip install --upgrade pip
 pip install selenium
 pip install pytest
 pip install unittest2
