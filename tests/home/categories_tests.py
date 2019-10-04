@@ -22,7 +22,7 @@ class RegisterTest(unittest2.TestCase):
         self.cp.homePageCattegories()
         self.cp.clickOnBestSeller()
         result = self.cp.verifyNumberOfBestSellers()
-        assert result == 6
+        assert result == 7
 
     @pytest.mark.run(order=3)
     def test_SearchResults(self):
