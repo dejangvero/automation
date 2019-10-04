@@ -1,3 +1,4 @@
+pip install selenium
 pip install pytest
 pip install unittest2
 pip install pytest-html
