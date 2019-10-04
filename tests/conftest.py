@@ -14,14 +14,14 @@ def oneTimeSetUp(request, browser):
     print("Running one time setUp")
     if browser == 'firefox':
         baseURL = "http://automationpractice.com/index.php"
-        driver = webdriver.Firefox(executable_path="C:\Python27\geckodriver.exe")
+        driver = webdriver.Firefox()
         driver.maximize_window()
         driver.implicitly_wait(5)
         driver.get(baseURL)
         print("Running tests on FF")
     else:
         baseURL = "http://automationpractice.com/index.php"
-        driver = webdriver.Chrome(executable_path="C:\Python27\chromedriver.exe")
+        driver = webdriver.Chrome()
         driver.get(baseURL)
         driver.maximize_window()
         driver.implicitly_wait(5)
