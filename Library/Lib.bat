@@ -1,6 +1,7 @@
 pip install selenium
 pip install pytest
-pip install pytest-allure-adaptor
+pip uninstall pytest-allure-adaptor
+pip install allure-pytest
 pip install unittest2
 pip install pytest-html
 pip install pytest-ordering
