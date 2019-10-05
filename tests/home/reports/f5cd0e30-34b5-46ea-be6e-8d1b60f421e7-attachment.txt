@@ -1,0 +1,11 @@
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:83 Element found with locator: //a[@class='login'] and  locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:116 Clicked on element with locator: //a[@class='login'] locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:83 Element found with locator: //input[@id='email'] and  locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:132 Sent data on element with locator: //input[@id='email'] locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:83 Element found with locator: //input[@id='passwd'] and  locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:132 Sent data on element with locator: //input[@id='passwd'] locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:83 Element found with locator: //i[@class='icon-lock left'] and  locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:116 Clicked on element with locator: //i[@class='icon-lock left'] locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:83 Element found with locator: //img[@class='logo img-responsive'] and  locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:116 Clicked on element with locator: //img[@class='logo img-responsive'] locatorType: xpath
+[32mINFO    [0m CategoriesPage:selenium_webdriver.py:100 Element list found with locator: ul[id='homefeatured'] li and locatorType: css

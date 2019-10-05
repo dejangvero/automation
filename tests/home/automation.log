@@ -114,3 +114,32 @@
 10/04/2019 02:47:44 PM - CategoriesPage - INFO: Element found with locator: //button[@name= 'submit_search'] and  locatorType: xpath
 10/04/2019 02:47:46 PM - CategoriesPage - INFO: Clicked on element with locator: //button[@name= 'submit_search'] locatorType: xpath
 10/04/2019 02:47:46 PM - CategoriesPage - INFO: Element list found with locator: //ul[@class='product_list grid row']//a[@class='product-name'] and locatorType: xpath
+10/05/2019 07:35:30 PM - CategoriesPage - INFO: Element found with locator: //a[@class='login'] and  locatorType: xpath
+10/05/2019 07:35:33 PM - CategoriesPage - INFO: Clicked on element with locator: //a[@class='login'] locatorType: xpath
+10/05/2019 07:35:33 PM - CategoriesPage - INFO: Element found with locator: //input[@id='email'] and  locatorType: xpath
+10/05/2019 07:35:34 PM - CategoriesPage - INFO: Sent data on element with locator: //input[@id='email'] locatorType: xpath
+10/05/2019 07:35:34 PM - CategoriesPage - INFO: Element found with locator: //input[@id='passwd'] and  locatorType: xpath
+10/05/2019 07:35:34 PM - CategoriesPage - INFO: Sent data on element with locator: //input[@id='passwd'] locatorType: xpath
+10/05/2019 07:35:34 PM - CategoriesPage - INFO: Element found with locator: //i[@class='icon-lock left'] and  locatorType: xpath
+10/05/2019 07:35:37 PM - CategoriesPage - INFO: Clicked on element with locator: //i[@class='icon-lock left'] locatorType: xpath
+10/05/2019 07:35:37 PM - CategoriesPage - INFO: Element found with locator: //img[@class='logo img-responsive'] and  locatorType: xpath
+10/05/2019 07:35:40 PM - CategoriesPage - INFO: Clicked on element with locator: //img[@class='logo img-responsive'] locatorType: xpath
+10/05/2019 07:35:40 PM - CategoriesPage - INFO: Element list found with locator: ul[id='homefeatured'] li and locatorType: css
+10/05/2019 07:36:04 PM - CategoriesPage - INFO: Element found with locator: //a[@class='login'] and  locatorType: xpath
+10/05/2019 07:36:06 PM - CategoriesPage - INFO: Clicked on element with locator: //a[@class='login'] locatorType: xpath
+10/05/2019 07:36:06 PM - CategoriesPage - INFO: Element found with locator: //input[@id='email'] and  locatorType: xpath
+10/05/2019 07:36:06 PM - CategoriesPage - INFO: Sent data on element with locator: //input[@id='email'] locatorType: xpath
+10/05/2019 07:36:06 PM - CategoriesPage - INFO: Element found with locator: //input[@id='passwd'] and  locatorType: xpath
+10/05/2019 07:36:07 PM - CategoriesPage - INFO: Sent data on element with locator: //input[@id='passwd'] locatorType: xpath
+10/05/2019 07:36:07 PM - CategoriesPage - INFO: Element found with locator: //i[@class='icon-lock left'] and  locatorType: xpath
+10/05/2019 07:36:08 PM - CategoriesPage - INFO: Clicked on element with locator: //i[@class='icon-lock left'] locatorType: xpath
+10/05/2019 07:36:08 PM - CategoriesPage - INFO: Element found with locator: //img[@class='logo img-responsive'] and  locatorType: xpath
+10/05/2019 07:36:11 PM - CategoriesPage - INFO: Clicked on element with locator: //img[@class='logo img-responsive'] locatorType: xpath
+10/05/2019 07:36:11 PM - CategoriesPage - INFO: Element found with locator: a.blockbestsellers and  locatorType: css
+10/05/2019 07:36:12 PM - CategoriesPage - INFO: Clicked on element with locator: a.blockbestsellers locatorType: css
+10/05/2019 07:36:12 PM - CategoriesPage - INFO: Element list found with locator: //ul[@id='blockbestsellers']/li and locatorType: xpath
+10/05/2019 07:36:32 PM - CategoriesPage - INFO: Element found with locator: //input[@id= 'search_query_top'] and  locatorType: xpath
+10/05/2019 07:36:33 PM - CategoriesPage - INFO: Sent data on element with locator: //input[@id= 'search_query_top'] locatorType: xpath
+10/05/2019 07:36:33 PM - CategoriesPage - INFO: Element found with locator: //button[@name= 'submit_search'] and  locatorType: xpath
+10/05/2019 07:36:35 PM - CategoriesPage - INFO: Clicked on element with locator: //button[@name= 'submit_search'] locatorType: xpath
+10/05/2019 07:36:35 PM - CategoriesPage - INFO: Element list found with locator: //ul[@class='product_list grid row']//a[@class='product-name'] and locatorType: xpath
