@@ -1,3 +1,4 @@
+pip list
 pip uninstall -y pytest-allure-adaptor
 pip uninstall -y pytest-allure-adaptor
 pip install selenium
