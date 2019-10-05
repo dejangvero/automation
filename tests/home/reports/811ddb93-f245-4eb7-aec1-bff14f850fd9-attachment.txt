@@ -1,5 +1,0 @@
-[32mINFO    [0m CategoriesPage:selenium_webdriver.py:83 Element found with locator: //input[@id= 'search_query_top'] and  locatorType: xpath
-[32mINFO    [0m CategoriesPage:selenium_webdriver.py:132 Sent data on element with locator: //input[@id= 'search_query_top'] locatorType: xpath
-[32mINFO    [0m CategoriesPage:selenium_webdriver.py:83 Element found with locator: //button[@name= 'submit_search'] and  locatorType: xpath
-[32mINFO    [0m CategoriesPage:selenium_webdriver.py:116 Clicked on element with locator: //button[@name= 'submit_search'] locatorType: xpath
-[32mINFO    [0m CategoriesPage:selenium_webdriver.py:100 Element list found with locator: //ul[@class='product_list grid row']//a[@class='product-name'] and locatorType: xpath
